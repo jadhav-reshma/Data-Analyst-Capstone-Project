@@ -1,5 +1,5 @@
 # Data-Analyst-Capstone-Project
-### EXECUTIVE SUMMARY
+## EXECUTIVE SUMMARY
 -------------------------------------------------------------------------------
 
 * Goal is to contextualize and analyze key findings from data
@@ -12,7 +12,7 @@
 * Discussion of the findings
 * Final conclusions of the research
 
-### INTRODUCTION
+## INTRODUCTION
 -------------------------------------------------------------------------------
 
 * Stack Overflow has been conducting this survey since 2011
@@ -25,7 +25,7 @@ usage and trends among developers.
   * HR Professionals
   * Educators
   * Policy Makers
-### Modules
+## Modules
 ------------------------------------------------------------------------------
 #### Module 1: Data Collection
 * Collecting Data Using APIs
@@ -56,7 +56,7 @@ usage and trends among developers.
 #### Module 6: Presentation of Findings
 * Final Presentation
 
-### Conclusion
+## Conclusion
 A subset of data collected as part of the 2019 Stack Overflow Developer Survey was examined.
 The findings yielded numerous insights into the technologies most used and desired by developers in addition to the developer demographic.
 These insights should be particularly relevant for current and prospective developers aiming to remain competitive, businesses aiming to upskill their talent, educators in the field, and policy makers aiming to address gender and economic issues.
